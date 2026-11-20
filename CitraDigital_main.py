@@ -1,4 +1,5 @@
 import os
+import cv2
 
 from kompresi import kompresi_jpeg, kompresi_kuantisasi
 from segmentasi import segmentasi_kmeans, segmentasi_otsu
